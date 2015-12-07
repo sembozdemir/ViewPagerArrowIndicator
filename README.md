@@ -1,5 +1,9 @@
 # ViewPagerArrowIndicator
-A simple viewpager indicator that uses arrows on left and right.
+A simple viewpager indicator that uses arrows on the left and right. You can navigate viewpager by clicking arrows and customize them as well.
+
+
+### Screenshots
+<img src="images/Screenshot_1.png" height="192" width="108" > <img src="images/Screenshot_2.png" height="192" width="108" > <img src="images/Screenshot_3.png" height="192" width="108" >
 
 ## How to add
 ViewPagerArrowIndicator is published with [JitPack.io](https://jitpack.io).
@@ -50,3 +54,26 @@ You have to set adapter before binding because ViewPagerArrowIndicator has to kn
 viewPagerArrowIndicator.setArrowIndicatorRes(R.drawable.custom_left_arrow, 
         R.drawable.custom_right_arrow);
 ```
+
+## Licence
+The MIT License (MIT)
+
+Copyright (c) 2015 Semih Bozdemir
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
