@@ -1,4 +1,7 @@
 # ViewPagerArrowIndicator
+
+[![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-ViewPagerArrowIndicator-green.svg?style=true)](https://android-arsenal.com/details/1/2938)
+
 A simple viewpager indicator that uses arrows on the left and right. You can navigate viewpager by clicking arrows and customize them as well.
 
 
