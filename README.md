@@ -4,9 +4,7 @@
 
 A simple viewpager indicator that uses arrows on the left and right. You can navigate viewpager by clicking arrows and customize them as well.
 
-
-### Screenshots
-<img src="images/Screenshot_1.png" height="192" width="108" > <img src="images/Screenshot_2.png" height="192" width="108" > <img src="images/Screenshot_3.png" height="192" width="108" >
+<img src="sample.gif"> 
 
 ## How to add
 ViewPagerArrowIndicator is published with [JitPack.io](https://jitpack.io).
