@@ -38,7 +38,7 @@ public class ViewPagerArrowIndicator extends LinearLayout {
     }
 
     private void setParams() {
-        setGravity(Gravity.CENTER_VERTICAL);
+        setGravity(Gravity.TOP);
     }
 
     public void bind(ViewPager viewPager) {
